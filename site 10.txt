@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="UTF-8">
+      <title>Site 10</title>
+      <link rel="stylesheet" type="text/css" href="css3/css/main.css">
+</head>
+<body>
+
+ <div class="top" />
+ <div class="esquerda" />
+ <div class="baixo" />
+ <div class="centro" />
+
+ </body>
+ </html>
+
+
+ 
